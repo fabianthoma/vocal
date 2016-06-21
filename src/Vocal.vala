@@ -44,7 +44,7 @@ namespace Vocal {
 
             app_years = "2015";
             app_icon = "vocal";
-            app_launcher = "vocal.desktop";
+            app_launcher = "com.github.btkostner.vocal.desktop";
             application_id = "net.launchpad.vocal";
 
             main_url = "http://vocalproject.net";

@@ -101,7 +101,7 @@ namespace Vocal {
             parser = new FeedParser();
 
 #if HAVE_LIBUNITY
-            launcher = Unity.LauncherEntry.get_for_desktop_id("vocal.desktop");
+            launcher = Unity.LauncherEntry.get_for_desktop_id("com.github.btkostner.vocal.desktop");
             launcher.count = new_episode_count;
 #endif
 
