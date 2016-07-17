@@ -1,7 +1,6 @@
 {
   "log": {
-    "label": "appwub",
-    "level": "debug"
+    "label": "appwub"
   },
   "nonexistant": {
     "thing": {
